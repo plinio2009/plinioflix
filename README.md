@@ -19,7 +19,7 @@
     <section class="chamada">
         <div class="chamada-texto">
             <h1>hino do flamengo</h1>
-            <p>#minato</p>
+            <p>#flamengo</p>
         </div>
 
         <div>
